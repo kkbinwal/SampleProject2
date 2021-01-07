@@ -3,8 +3,8 @@ package com.egoebelbecker.teamcity;
 public class TeamCity {
 
     public boolean getStatus() {
-        return false;
-        //new comment here
+        return true;
+        //new comment2 here
     }
 
 }
